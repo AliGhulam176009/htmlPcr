@@ -1,0 +1,11 @@
+/* body{
+  color:black;
+  background-color: coral;
+} */
+#box-1{
+  background-color:orange;
+  border: 5px red solid;
+  padding-left: 10px;/*padding area is the space between its content and its border*/;
+  padding-bottom: 50px;
+  padding-top:50px;
+}
